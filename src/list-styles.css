@@ -1,0 +1,8 @@
+.list-cont{
+    border-radius: 3%;
+    border: 1px solid lightgray;
+    margin: 4rem auto;
+    width: 75%;
+    height: 50rem;
+    overflow-y: scroll;
+}
